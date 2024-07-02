@@ -114,6 +114,7 @@ public class LabTest0724
             inputFile.close();
             withDisc.close();
             withoutDisc.close();
+            System.exit(0);
         }//end of try block
         catch(FileNotFoundException ex)
         {
@@ -128,6 +129,8 @@ public class LabTest0724
         catch(Exception e)
         {
             JOptionPane.showMessageDialog(null,"Error: \n "+ e);
+            System.exit(0);
         }//end of try-catch statement
+        
     }//end of main
 }//end of class
