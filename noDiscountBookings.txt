@@ -1,0 +1,9 @@
++-----------------+--------------------+--------------------------+
+| List of Customer NOT Entitled for Discount                     |
++-----------------+--------------------+--------------------------+
+| Customer Name   | Flt Destination    | Total Price              |
++-----------------+--------------------+--------------------------+
+| Abah            | Brunei             | 150.00                   |
+| Rosmah          | Indonesia          | 200.00                   |
+| Acap            | Singapore          | 250.00                   |
+| Meow            | Kuching            | 100.00                   |

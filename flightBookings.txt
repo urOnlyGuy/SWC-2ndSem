@@ -1,0 +1,10 @@
+Shamsul,Singapore,300.00,1
+Garfield,Malaysia,500.00,2
+Upin,Sabah,500.00,4
+Abah,Brunei,150.00,1
+Rosmah,Indonesia,100.00,2
+Acap,Singapore,250.00,1
+Raja Lawak,Sabah,1000.00,5
+Meow,Kuching,100.00,1
+Nafiz,China,900.00,2
+Airpool,Thailand,500.00,2
